@@ -3,3 +3,4 @@ Some other line
 Line from user2
 Another line from user2
 Most new line from user2!!!
+And you know, it's just line from user2
